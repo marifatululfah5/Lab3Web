@@ -1,5 +1,6 @@
 # Lab3Web
 # program List
 
+### membuat list
 Menampilkan list menu makanan
-![img]screenshoot/ss1.png
+![Gambar 1](screenshoot/ss1.png)
